@@ -1,0 +1,79 @@
+test charts 1000 pairs 200
+Proposed: OCR + rules, clean                 TPR=1.000 FPR=0.007 (bar 0.000, line 0.015) F1=0.998 prec@5%=0.880 prec@95%=1.000
+Proposed: OCR + rules, degraded              TPR=1.000 FPR=0.468 (bar 0.925, line 0.010) F1=0.865 prec@5%=0.101 prec@95%=0.976
+Oracle metadata + rules (upper bound)        TPR=1.000 FPR=0.000 (bar 0.000, line 0.000) F1=1.000 prec@5%=1.000 prec@95%=1.000
+Ablation: OCR, truncation rule ungated       TPR=1.000 FPR=0.500 (bar 0.000, line 1.000) F1=0.857 prec@5%=0.096 prec@95%=0.974
+Ablation: oracle, truncation rule ungated    TPR=1.000 FPR=0.500 (bar 0.000, line 1.000) F1=0.857 prec@5%=0.096 prec@95%=0.974
+Ablation: OCR, no truncation rule            TPR=0.667 FPR=0.007 (bar 0.000, line 0.015) F1=0.798 prec@5%=0.830 prec@95%=0.999
+Ablation: OCR, no inversion rule             TPR=0.667 FPR=0.000 (bar 0.000, line 0.000) F1=0.800 prec@5%=1.000 prec@95%=1.000
+Ablation: OCR, no dual-axis rule             TPR=0.672 FPR=0.007 (bar 0.000, line 0.015) F1=0.801 prec@5%=0.835 prec@95%=0.999
+Baseline B0: always flag                     TPR=1.000 FPR=1.000 (bar 1.000, line 1.000) F1=0.750 prec@5%=0.050 prec@95%=0.950
+Baseline B0b: never flag                     TPR=0.000 FPR=0.000 (bar 0.000, line 0.000) F1=0.000 prec@5%=0.000 prec@95%=0.000
+{
+ "clean vs degraded": {
+  "b": 185,
+  "c": 1,
+  "p": 0.0
+ },
+ "clean vs oracle": {
+  "b": 0,
+  "c": 3,
+  "p": 0.24821307898992362
+ },
+ "clean vs ungated truncation": {
+  "b": 197,
+  "c": 0,
+  "p": 0.0
+ },
+ "clean vs always-flag": {
+  "b": 397,
+  "c": 0,
+  "p": 0.0
+ }
+}
+{
+ "clean": {
+  "honest_bar": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "honest_line": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "truncated": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "inverted": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "dual": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  }
+ },
+ "degraded": {
+  "honest_bar": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "honest_line": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "truncated": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "inverted": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  },
+  "dual": {
+   "readable_rate": 1.0,
+   "chart_type_acc": 1.0
+  }
+ }
+}

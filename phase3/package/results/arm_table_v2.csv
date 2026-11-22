@@ -1,0 +1,11 @@
+arm,TPR,FPR,FPR_honest_bar,FPR_honest_line,F1,precision@5%,precision@50%,precision@95%,abstain_misleading,abstain_honest
+"Proposed: OCR + rules, clean",1.000,0.007,0.000,0.015,0.998,0.880,0.992,1.000,0.000,0.000
+"Proposed: OCR + rules, degraded",1.000,0.468,0.925,0.010,0.865,0.101,0.682,0.976,0.000,0.000
+Oracle metadata + rules (upper bound),1.000,0.000,0.000,0.000,1.000,1.000,1.000,1.000,0.000,0.000
+"Ablation: OCR, truncation rule ungated",1.000,0.500,0.000,1.000,0.857,0.096,0.667,0.974,0.000,0.000
+"Ablation: oracle, truncation rule ungated",1.000,0.500,0.000,1.000,0.857,0.096,0.667,0.974,0.000,0.000
+"Ablation: OCR, no truncation rule",0.667,0.007,0.000,0.015,0.798,0.830,0.989,0.999,0.000,0.000
+"Ablation: OCR, no inversion rule",0.667,0.000,0.000,0.000,0.800,1.000,1.000,1.000,0.000,0.000
+"Ablation: OCR, no dual-axis rule",0.672,0.007,0.000,0.015,0.801,0.835,0.989,0.999,0.000,0.000
+Baseline B0: always flag,1.000,1.000,1.000,1.000,0.750,0.050,0.500,0.950,0.000,0.000
+Baseline B0b: never flag,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000

@@ -1,0 +1,2 @@
+done clean 600
+done degraded 600

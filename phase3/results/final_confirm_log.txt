@@ -1,0 +1,45 @@
+n test charts 1000 pairs 200
+Proposed v3: OCR + rules + missing-tick check (clean)          TPR=1.000 FPR=0.005 bar=0.000 line=0.010 F1=0.998 p@5=0.919 p@50=0.995 p@95=1.000 abst_m=0.000 abst_h=0.000
+Proposed v3: OCR + rules + missing-tick check (degraded)       TPR=1.000 FPR=0.007 bar=0.000 line=0.015 F1=0.998 p@5=0.882 p@50=0.993 p@95=1.000 abst_m=0.000 abst_h=0.443
+Proposed v2: OCR + rules, no missing-tick check (clean)        TPR=1.000 FPR=0.005 bar=0.000 line=0.010 F1=0.998 p@5=0.916 p@50=0.995 p@95=1.000 abst_m=0.000 abst_h=0.000
+Proposed v2: OCR + rules, no missing-tick check (degraded)     TPR=1.000 FPR=0.450 bar=0.885 line=0.015 F1=0.870 p@5=0.105 p@50=0.691 p@95=0.977 abst_m=0.000 abst_h=0.000
+Ablation v3: truncation rule ungated (clean)                   TPR=1.000 FPR=0.497 bar=0.000 line=0.995 F1=0.858 p@5=0.096 p@50=0.667 p@95=0.974 abst_m=0.000 abst_h=0.000
+Ablation v3: no truncation rule (clean)                        TPR=0.667 FPR=0.005 bar=0.000 line=0.010 F1=0.798 p@5=0.880 p@50=0.993 p@95=1.000 abst_m=0.000 abst_h=0.000
+Ablation v3: no inversion rule (clean)                         TPR=0.667 FPR=0.000 bar=0.000 line=0.000 F1=0.800 p@5=1.000 p@50=1.000 p@95=1.000 abst_m=0.000 abst_h=0.000
+Ablation v3: no dual-axis rule (clean)                         TPR=0.667 FPR=0.005 bar=0.000 line=0.010 F1=0.798 p@5=0.876 p@50=0.993 p@95=1.000 abst_m=0.002 abst_h=0.000
+Oracle metadata + rules (upper bound)                          TPR=1.000 FPR=0.000 bar=0.000 line=0.000 F1=1.000 p@5=1.000 p@50=1.000 p@95=1.000 abst_m=0.000 abst_h=0.000
+Oracle, truncation rule ungated                                TPR=1.000 FPR=0.500 bar=0.000 line=1.000 F1=0.857 p@5=0.095 p@50=0.667 p@95=0.974 abst_m=0.000 abst_h=0.000
+Baseline B0: always flag                                       TPR=1.000 FPR=1.000 bar=1.000 line=1.000 F1=0.750 p@5=0.050 p@50=0.500 p@95=0.950 abst_m=0.000 abst_h=0.000
+Baseline B0b: never flag                                       TPR=0.000 FPR=0.000 bar=0.000 line=0.000 F1=0.000 p@5=0.000 p@50=0.000 p@95=0.000 abst_m=0.000 abst_h=0.000
+{
+ "v3 vs v2, clean": {
+  "b": 0,
+  "c": 0,
+  "p": 1.0
+ },
+ "v3 vs v2, degraded": {
+  "b": 177,
+  "c": 0,
+  "p": 0.0
+ },
+ "v3 clean vs oracle": {
+  "b": 0,
+  "c": 2,
+  "p": 0.47950012218695337
+ },
+ "v3 clean vs always-flag": {
+  "b": 398,
+  "c": 0,
+  "p": 0.0
+ }
+}
+{
+ "clean": {
+  "readable_rate": 1.0,
+  "chart_type_acc": 1.0
+ },
+ "degraded": {
+  "readable_rate": 1.0,
+  "chart_type_acc": 1.0
+ }
+}

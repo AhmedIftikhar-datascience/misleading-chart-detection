@@ -1,0 +1,182 @@
+[
+ {
+  "blind_name": "chart_01.jpg",
+  "file": "images_degraded/pair0253_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_02.jpg",
+  "file": "images_degraded/pair0128_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_03.jpg",
+  "file": "images_degraded/pair0191_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_04.jpg",
+  "file": "images_degraded/pair0106_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_05.jpg",
+  "file": "images_degraded/pair0174_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_06.jpg",
+  "file": "images_degraded/pair0157_honest_bar.jpg",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_07.jpg",
+  "file": "images_degraded/pair0166_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_08.jpg",
+  "file": "images_degraded/pair0239_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_09.jpg",
+  "file": "images_degraded/pair0164_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_10.jpg",
+  "file": "images_degraded/pair0260_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_11.jpg",
+  "file": "images_degraded/pair0271_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_12.jpg",
+  "file": "images_degraded/pair0216_honest_line.jpg",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_13.jpg",
+  "file": "images_degraded/pair0283_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_14.jpg",
+  "file": "images_degraded/pair0248_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_15.jpg",
+  "file": "images_degraded/pair0222_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_16.jpg",
+  "file": "images_degraded/pair0124_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_17.jpg",
+  "file": "images_degraded/pair0215_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_18.jpg",
+  "file": "images_degraded/pair0230_truncated.jpg",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_19.jpg",
+  "file": "images_degraded/pair0163_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_20.jpg",
+  "file": "images_degraded/pair0196_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_21.jpg",
+  "file": "images_degraded/pair0239_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_22.jpg",
+  "file": "images_degraded/pair0271_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_23.jpg",
+  "file": "images_degraded/pair0134_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_24.jpg",
+  "file": "images_degraded/pair0168_inverted.jpg",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_25.jpg",
+  "file": "images_degraded/pair0265_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_26.jpg",
+  "file": "images_degraded/pair0221_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_27.jpg",
+  "file": "images_degraded/pair0135_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_28.jpg",
+  "file": "images_degraded/pair0271_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_29.jpg",
+  "file": "images_degraded/pair0169_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_30.jpg",
+  "file": "images_degraded/pair0253_dual.jpg",
+  "kind": "dual",
+  "label": 1
+ }
+]

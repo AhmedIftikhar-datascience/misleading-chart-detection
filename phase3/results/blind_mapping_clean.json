@@ -1,0 +1,182 @@
+[
+ {
+  "blind_name": "chart_01.png",
+  "file": "images/pair0253_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_02.png",
+  "file": "images/pair0128_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_03.png",
+  "file": "images/pair0191_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_04.png",
+  "file": "images/pair0106_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_05.png",
+  "file": "images/pair0174_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_06.png",
+  "file": "images/pair0157_honest_bar.png",
+  "kind": "honest_bar",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_07.png",
+  "file": "images/pair0166_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_08.png",
+  "file": "images/pair0239_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_09.png",
+  "file": "images/pair0164_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_10.png",
+  "file": "images/pair0260_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_11.png",
+  "file": "images/pair0271_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_12.png",
+  "file": "images/pair0216_honest_line.png",
+  "kind": "honest_line",
+  "label": 0
+ },
+ {
+  "blind_name": "chart_13.png",
+  "file": "images/pair0283_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_14.png",
+  "file": "images/pair0248_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_15.png",
+  "file": "images/pair0222_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_16.png",
+  "file": "images/pair0124_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_17.png",
+  "file": "images/pair0215_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_18.png",
+  "file": "images/pair0230_truncated.png",
+  "kind": "truncated",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_19.png",
+  "file": "images/pair0163_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_20.png",
+  "file": "images/pair0196_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_21.png",
+  "file": "images/pair0239_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_22.png",
+  "file": "images/pair0271_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_23.png",
+  "file": "images/pair0134_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_24.png",
+  "file": "images/pair0168_inverted.png",
+  "kind": "inverted",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_25.png",
+  "file": "images/pair0265_dual.png",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_26.png",
+  "file": "images/pair0221_dual.png",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_27.png",
+  "file": "images/pair0135_dual.png",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_28.png",
+  "file": "images/pair0271_dual.png",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_29.png",
+  "file": "images/pair0169_dual.png",
+  "kind": "dual",
+  "label": 1
+ },
+ {
+  "blind_name": "chart_30.png",
+  "file": "images/pair0253_dual.png",
+  "kind": "dual",
+  "label": 1
+ }
+]

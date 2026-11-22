@@ -1,0 +1,52 @@
+{
+ "model": "gemini-web-app (manual)",
+ "condition": "degraded",
+ "charts_requested": 16,
+ "charts_answered": 16,
+ "api_errors": 0,
+ "charts_per_kind": {
+  "honest_bar": 6,
+  "honest_line": 6,
+  "truncated": 4,
+  "inverted": 0,
+  "dual": 0
+ },
+ "VLM": {
+  "TPR": 1.0,
+  "FPR": 0.0,
+  "precision": 1.0,
+  "F1": 1.0,
+  "n": 16,
+  "honest_bar_FPR": 0.0,
+  "honest_line_FPR": 0.0,
+  "recall_by_type": {
+   "truncated": 1.0,
+   "inverted": null,
+   "dual": null
+  }
+ },
+ "rules_same_charts": {
+  "TPR": 1.0,
+  "FPR": 0.0,
+  "precision": 1.0,
+  "F1": 1.0,
+  "n": 16,
+  "honest_bar_FPR": 0.0,
+  "honest_line_FPR": 0.0,
+  "recall_by_type": {
+   "truncated": 1.0,
+   "inverted": null,
+   "dual": null
+  }
+ },
+ "mcnemar_vlm_vs_rules": {
+  "vlm_right_rules_wrong": 0,
+  "rules_right_vlm_wrong": 0,
+  "p": 1.0
+ },
+ "vlm_misleader_type_accuracy": {
+  "truncated": 1.0,
+  "inverted": null,
+  "dual": null
+ }
+}

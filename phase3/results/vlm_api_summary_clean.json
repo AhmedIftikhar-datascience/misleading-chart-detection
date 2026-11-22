@@ -1,0 +1,52 @@
+{
+ "model": "gemini-3.5-flash-lite",
+ "condition": "clean",
+ "charts_requested": 30,
+ "charts_answered": 30,
+ "api_errors": 0,
+ "charts_per_kind": {
+  "honest_bar": 6,
+  "honest_line": 6,
+  "truncated": 6,
+  "inverted": 6,
+  "dual": 6
+ },
+ "VLM": {
+  "TPR": 1.0,
+  "FPR": 0.0,
+  "precision": 1.0,
+  "F1": 1.0,
+  "n": 30,
+  "honest_bar_FPR": 0.0,
+  "honest_line_FPR": 0.0,
+  "recall_by_type": {
+   "truncated": 1.0,
+   "inverted": 1.0,
+   "dual": 1.0
+  }
+ },
+ "rules_same_charts": {
+  "TPR": 1.0,
+  "FPR": 0.0,
+  "precision": 1.0,
+  "F1": 1.0,
+  "n": 30,
+  "honest_bar_FPR": 0.0,
+  "honest_line_FPR": 0.0,
+  "recall_by_type": {
+   "truncated": 1.0,
+   "inverted": 1.0,
+   "dual": 1.0
+  }
+ },
+ "mcnemar_vlm_vs_rules": {
+  "vlm_right_rules_wrong": 0,
+  "rules_right_vlm_wrong": 0,
+  "p": 1.0
+ },
+ "vlm_misleader_type_accuracy": {
+  "truncated": 1.0,
+  "inverted": 1.0,
+  "dual": 1.0
+ }
+}
