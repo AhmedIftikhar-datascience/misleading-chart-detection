@@ -1,0 +1,7508 @@
+[
+ {
+  "pair_id": "pair0130",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0130_honest_bar.png",
+  "file_degraded": "images_degraded/pair0130_honest_bar.jpg",
+  "values": [
+   30.0,
+   68.0,
+   84.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0181",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0181_honest_bar.png",
+  "file_degraded": "images_degraded/pair0181_honest_bar.jpg",
+  "values": [
+   64.0,
+   21.0,
+   87.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0228",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0228_honest_bar.png",
+  "file_degraded": "images_degraded/pair0228_honest_bar.jpg",
+  "values": [
+   92.0,
+   92.0,
+   78.0,
+   45.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0231",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0231_honest_bar.png",
+  "file_degraded": "images_degraded/pair0231_honest_bar.jpg",
+  "values": [
+   59.0,
+   98.0,
+   68.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0265",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0265_honest_bar.png",
+  "file_degraded": "images_degraded/pair0265_honest_bar.jpg",
+  "values": [
+   59.0,
+   65.0,
+   46.0,
+   69.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0126",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0126_honest_bar.png",
+  "file_degraded": "images_degraded/pair0126_honest_bar.jpg",
+  "values": [
+   25.0,
+   56.0,
+   49.0,
+   44.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0157",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0157_honest_bar.png",
+  "file_degraded": "images_degraded/pair0157_honest_bar.jpg",
+  "values": [
+   62.0,
+   33.0,
+   92.0,
+   36.0,
+   39.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0253",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0253_honest_bar.png",
+  "file_degraded": "images_degraded/pair0253_honest_bar.jpg",
+  "values": [
+   44.0,
+   47.0,
+   48.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0259",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0259_honest_bar.png",
+  "file_degraded": "images_degraded/pair0259_honest_bar.jpg",
+  "values": [
+   68.0,
+   95.0,
+   63.0,
+   77.0,
+   58.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0242",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0242_honest_bar.png",
+  "file_degraded": "images_degraded/pair0242_honest_bar.jpg",
+  "values": [
+   99.0,
+   34.0,
+   75.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0207",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0207_honest_bar.png",
+  "file_degraded": "images_degraded/pair0207_honest_bar.jpg",
+  "values": [
+   35.0,
+   31.0,
+   56.0,
+   26.0,
+   50.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0246",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0246_honest_bar.png",
+  "file_degraded": "images_degraded/pair0246_honest_bar.jpg",
+  "values": [
+   34.0,
+   92.0,
+   41.0,
+   76.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0240",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0240_honest_bar.png",
+  "file_degraded": "images_degraded/pair0240_honest_bar.jpg",
+  "values": [
+   25.0,
+   53.0,
+   56.0,
+   94.0,
+   78.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0225",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0225_honest_bar.png",
+  "file_degraded": "images_degraded/pair0225_honest_bar.jpg",
+  "values": [
+   86.0,
+   46.0,
+   51.0,
+   42.0,
+   79.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0250",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0250_honest_bar.png",
+  "file_degraded": "images_degraded/pair0250_honest_bar.jpg",
+  "values": [
+   48.0,
+   89.0,
+   91.0,
+   90.0,
+   70.0,
+   81.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0212",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0212_honest_bar.png",
+  "file_degraded": "images_degraded/pair0212_honest_bar.jpg",
+  "values": [
+   61.0,
+   26.0,
+   56.0,
+   44.0,
+   95.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0161",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0161_honest_bar.png",
+  "file_degraded": "images_degraded/pair0161_honest_bar.jpg",
+  "values": [
+   32.0,
+   69.0,
+   51.0,
+   21.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0100",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0100_honest_bar.png",
+  "file_degraded": "images_degraded/pair0100_honest_bar.jpg",
+  "values": [
+   31.0,
+   66.0,
+   95.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0257",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0257_honest_bar.png",
+  "file_degraded": "images_degraded/pair0257_honest_bar.jpg",
+  "values": [
+   70.0,
+   93.0,
+   88.0,
+   48.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0120",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0120_honest_bar.png",
+  "file_degraded": "images_degraded/pair0120_honest_bar.jpg",
+  "values": [
+   82.0,
+   49.0,
+   41.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0128",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0128_honest_bar.png",
+  "file_degraded": "images_degraded/pair0128_honest_bar.jpg",
+  "values": [
+   55.0,
+   66.0,
+   23.0,
+   41.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0173",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0173_honest_bar.png",
+  "file_degraded": "images_degraded/pair0173_honest_bar.jpg",
+  "values": [
+   58.0,
+   37.0,
+   58.0,
+   69.0,
+   61.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0125",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0125_honest_bar.png",
+  "file_degraded": "images_degraded/pair0125_honest_bar.jpg",
+  "values": [
+   77.0,
+   59.0,
+   36.0,
+   58.0,
+   26.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0215",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0215_honest_bar.png",
+  "file_degraded": "images_degraded/pair0215_honest_bar.jpg",
+  "values": [
+   21.0,
+   86.0,
+   84.0,
+   86.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0102",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0102_honest_bar.png",
+  "file_degraded": "images_degraded/pair0102_honest_bar.jpg",
+  "values": [
+   82.0,
+   76.0,
+   33.0,
+   45.0,
+   67.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0286",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0286_honest_bar.png",
+  "file_degraded": "images_degraded/pair0286_honest_bar.jpg",
+  "values": [
+   24.0,
+   94.0,
+   22.0,
+   25.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0273",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0273_honest_bar.png",
+  "file_degraded": "images_degraded/pair0273_honest_bar.jpg",
+  "values": [
+   78.0,
+   21.0,
+   67.0,
+   69.0,
+   94.0,
+   82.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0180",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0180_honest_bar.png",
+  "file_degraded": "images_degraded/pair0180_honest_bar.jpg",
+  "values": [
+   50.0,
+   24.0,
+   55.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0153",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0153_honest_bar.png",
+  "file_degraded": "images_degraded/pair0153_honest_bar.jpg",
+  "values": [
+   44.0,
+   61.0,
+   93.0,
+   23.0,
+   38.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0201",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0201_honest_bar.png",
+  "file_degraded": "images_degraded/pair0201_honest_bar.jpg",
+  "values": [
+   91.0,
+   48.0,
+   35.0,
+   63.0,
+   43.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0164",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0164_honest_bar.png",
+  "file_degraded": "images_degraded/pair0164_honest_bar.jpg",
+  "values": [
+   68.0,
+   85.0,
+   81.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0189",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0189_honest_bar.png",
+  "file_degraded": "images_degraded/pair0189_honest_bar.jpg",
+  "values": [
+   62.0,
+   51.0,
+   56.0,
+   99.0,
+   65.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0191",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0191_honest_bar.png",
+  "file_degraded": "images_degraded/pair0191_honest_bar.jpg",
+  "values": [
+   72.0,
+   93.0,
+   48.0,
+   54.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0196",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0196_honest_bar.png",
+  "file_degraded": "images_degraded/pair0196_honest_bar.jpg",
+  "values": [
+   75.0,
+   41.0,
+   51.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0296",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0296_honest_bar.png",
+  "file_degraded": "images_degraded/pair0296_honest_bar.jpg",
+  "values": [
+   27.0,
+   49.0,
+   58.0,
+   93.0,
+   67.0,
+   33.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0263",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0263_honest_bar.png",
+  "file_degraded": "images_degraded/pair0263_honest_bar.jpg",
+  "values": [
+   84.0,
+   82.0,
+   74.0,
+   27.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0119",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0119_honest_bar.png",
+  "file_degraded": "images_degraded/pair0119_honest_bar.jpg",
+  "values": [
+   54.0,
+   30.0,
+   62.0,
+   58.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0187",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0187_honest_bar.png",
+  "file_degraded": "images_degraded/pair0187_honest_bar.jpg",
+  "values": [
+   85.0,
+   75.0,
+   43.0,
+   43.0,
+   70.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0122",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0122_honest_bar.png",
+  "file_degraded": "images_degraded/pair0122_honest_bar.jpg",
+  "values": [
+   52.0,
+   86.0,
+   24.0,
+   36.0,
+   41.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0290",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0290_honest_bar.png",
+  "file_degraded": "images_degraded/pair0290_honest_bar.jpg",
+  "values": [
+   95.0,
+   74.0,
+   46.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0237",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0237_honest_bar.png",
+  "file_degraded": "images_degraded/pair0237_honest_bar.jpg",
+  "values": [
+   65.0,
+   52.0,
+   78.0,
+   40.0,
+   98.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0174",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0174_honest_bar.png",
+  "file_degraded": "images_degraded/pair0174_honest_bar.jpg",
+  "values": [
+   60.0,
+   96.0,
+   93.0,
+   28.0,
+   52.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0278",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0278_honest_bar.png",
+  "file_degraded": "images_degraded/pair0278_honest_bar.jpg",
+  "values": [
+   70.0,
+   25.0,
+   91.0,
+   49.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0217",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0217_honest_bar.png",
+  "file_degraded": "images_degraded/pair0217_honest_bar.jpg",
+  "values": [
+   94.0,
+   54.0,
+   93.0,
+   71.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0136",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0136_honest_bar.png",
+  "file_degraded": "images_degraded/pair0136_honest_bar.jpg",
+  "values": [
+   33.0,
+   51.0,
+   69.0,
+   98.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0247",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0247_honest_bar.png",
+  "file_degraded": "images_degraded/pair0247_honest_bar.jpg",
+  "values": [
+   92.0,
+   44.0,
+   96.0,
+   59.0,
+   96.0,
+   50.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0179",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0179_honest_bar.png",
+  "file_degraded": "images_degraded/pair0179_honest_bar.jpg",
+  "values": [
+   68.0,
+   26.0,
+   65.0,
+   54.0,
+   84.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0106",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0106_honest_bar.png",
+  "file_degraded": "images_degraded/pair0106_honest_bar.jpg",
+  "values": [
+   38.0,
+   22.0,
+   33.0,
+   25.0,
+   88.0,
+   31.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0194",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0194_honest_bar.png",
+  "file_degraded": "images_degraded/pair0194_honest_bar.jpg",
+  "values": [
+   24.0,
+   44.0,
+   25.0,
+   66.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0193",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0193_honest_bar.png",
+  "file_degraded": "images_degraded/pair0193_honest_bar.jpg",
+  "values": [
+   66.0,
+   73.0,
+   78.0,
+   49.0,
+   51.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0218",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0218_honest_line.png",
+  "file_degraded": "images_degraded/pair0218_honest_line.jpg",
+  "values": [
+   40.0,
+   87.0,
+   95.0,
+   47.0,
+   71.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0208",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0208_honest_line.png",
+  "file_degraded": "images_degraded/pair0208_honest_line.jpg",
+  "values": [
+   92.0,
+   53.0,
+   54.0,
+   62.0,
+   85.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0123",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0123_honest_line.png",
+  "file_degraded": "images_degraded/pair0123_honest_line.jpg",
+  "values": [
+   87.0,
+   42.0,
+   40.0,
+   83.0,
+   37.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0202",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0202_honest_line.png",
+  "file_degraded": "images_degraded/pair0202_honest_line.jpg",
+  "values": [
+   53.0,
+   52.0,
+   68.0,
+   89.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0249",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0249_honest_line.png",
+  "file_degraded": "images_degraded/pair0249_honest_line.jpg",
+  "values": [
+   96.0,
+   22.0,
+   29.0,
+   65.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0241",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0241_honest_line.png",
+  "file_degraded": "images_degraded/pair0241_honest_line.jpg",
+  "values": [
+   84.0,
+   86.0,
+   29.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0227",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0227_honest_line.png",
+  "file_degraded": "images_degraded/pair0227_honest_line.jpg",
+  "values": [
+   95.0,
+   90.0,
+   98.0,
+   52.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0129",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0129_honest_line.png",
+  "file_degraded": "images_degraded/pair0129_honest_line.jpg",
+  "values": [
+   62.0,
+   31.0,
+   96.0,
+   70.0,
+   66.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0298",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0298_honest_line.png",
+  "file_degraded": "images_degraded/pair0298_honest_line.jpg",
+  "values": [
+   90.0,
+   39.0,
+   96.0,
+   72.0,
+   50.0,
+   52.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0229",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0229_honest_line.png",
+  "file_degraded": "images_degraded/pair0229_honest_line.jpg",
+  "values": [
+   58.0,
+   79.0,
+   85.0,
+   63.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0253",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0253_honest_line.png",
+  "file_degraded": "images_degraded/pair0253_honest_line.jpg",
+  "values": [
+   44.0,
+   47.0,
+   48.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0225",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0225_honest_line.png",
+  "file_degraded": "images_degraded/pair0225_honest_line.jpg",
+  "values": [
+   86.0,
+   46.0,
+   51.0,
+   42.0,
+   79.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0201",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0201_honest_line.png",
+  "file_degraded": "images_degraded/pair0201_honest_line.jpg",
+  "values": [
+   91.0,
+   48.0,
+   35.0,
+   63.0,
+   43.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0234",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0234_honest_line.png",
+  "file_degraded": "images_degraded/pair0234_honest_line.jpg",
+  "values": [
+   72.0,
+   49.0,
+   59.0,
+   40.0,
+   76.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0166",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0166_honest_line.png",
+  "file_degraded": "images_degraded/pair0166_honest_line.jpg",
+  "values": [
+   35.0,
+   81.0,
+   39.0,
+   35.0,
+   63.0,
+   22.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0207",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0207_honest_line.png",
+  "file_degraded": "images_degraded/pair0207_honest_line.jpg",
+  "values": [
+   35.0,
+   31.0,
+   56.0,
+   26.0,
+   50.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0244",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0244_honest_line.png",
+  "file_degraded": "images_degraded/pair0244_honest_line.jpg",
+  "values": [
+   94.0,
+   99.0,
+   99.0,
+   57.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0222",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0222_honest_line.png",
+  "file_degraded": "images_degraded/pair0222_honest_line.jpg",
+  "values": [
+   50.0,
+   65.0,
+   58.0,
+   85.0,
+   82.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0231",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0231_honest_line.png",
+  "file_degraded": "images_degraded/pair0231_honest_line.jpg",
+  "values": [
+   59.0,
+   98.0,
+   68.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0232",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0232_honest_line.png",
+  "file_degraded": "images_degraded/pair0232_honest_line.jpg",
+  "values": [
+   34.0,
+   87.0,
+   46.0,
+   35.0,
+   26.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0106",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0106_honest_line.png",
+  "file_degraded": "images_degraded/pair0106_honest_line.jpg",
+  "values": [
+   38.0,
+   22.0,
+   33.0,
+   25.0,
+   88.0,
+   31.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0247",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0247_honest_line.png",
+  "file_degraded": "images_degraded/pair0247_honest_line.jpg",
+  "values": [
+   92.0,
+   44.0,
+   96.0,
+   59.0,
+   96.0,
+   50.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 30.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0157",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0157_honest_line.png",
+  "file_degraded": "images_degraded/pair0157_honest_line.jpg",
+  "values": [
+   62.0,
+   33.0,
+   92.0,
+   36.0,
+   39.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0133",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0133_honest_line.png",
+  "file_degraded": "images_degraded/pair0133_honest_line.jpg",
+  "values": [
+   49.0,
+   20.0,
+   22.0,
+   43.0,
+   95.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 10.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0112",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0112_honest_line.png",
+  "file_degraded": "images_degraded/pair0112_honest_line.jpg",
+  "values": [
+   58.0,
+   84.0,
+   41.0,
+   58.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0233",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0233_honest_line.png",
+  "file_degraded": "images_degraded/pair0233_honest_line.jpg",
+  "values": [
+   89.0,
+   89.0,
+   32.0,
+   47.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0271",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0271_honest_line.png",
+  "file_degraded": "images_degraded/pair0271_honest_line.jpg",
+  "values": [
+   96.0,
+   26.0,
+   27.0,
+   41.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0126",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0126_honest_line.png",
+  "file_degraded": "images_degraded/pair0126_honest_line.jpg",
+  "values": [
+   25.0,
+   56.0,
+   49.0,
+   44.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0259",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0259_honest_line.png",
+  "file_degraded": "images_degraded/pair0259_honest_line.jpg",
+  "values": [
+   68.0,
+   95.0,
+   63.0,
+   77.0,
+   58.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0209",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0209_honest_line.png",
+  "file_degraded": "images_degraded/pair0209_honest_line.jpg",
+  "values": [
+   37.0,
+   30.0,
+   39.0,
+   78.0,
+   49.0,
+   88.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0220",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0220_honest_line.png",
+  "file_degraded": "images_degraded/pair0220_honest_line.jpg",
+  "values": [
+   34.0,
+   61.0,
+   77.0,
+   41.0,
+   75.0,
+   42.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0136",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0136_honest_line.png",
+  "file_degraded": "images_degraded/pair0136_honest_line.jpg",
+  "values": [
+   33.0,
+   51.0,
+   69.0,
+   98.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0223",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0223_honest_line.png",
+  "file_degraded": "images_degraded/pair0223_honest_line.jpg",
+  "values": [
+   68.0,
+   31.0,
+   89.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0158",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0158_honest_line.png",
+  "file_degraded": "images_degraded/pair0158_honest_line.jpg",
+  "values": [
+   54.0,
+   72.0,
+   70.0,
+   63.0,
+   43.0,
+   87.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 30.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0131",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0131_honest_line.png",
+  "file_degraded": "images_degraded/pair0131_honest_line.jpg",
+  "values": [
+   77.0,
+   46.0,
+   33.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0260",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0260_honest_line.png",
+  "file_degraded": "images_degraded/pair0260_honest_line.jpg",
+  "values": [
+   79.0,
+   22.0,
+   60.0,
+   87.0,
+   48.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0216",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0216_honest_line.png",
+  "file_degraded": "images_degraded/pair0216_honest_line.jpg",
+  "values": [
+   32.0,
+   32.0,
+   27.0,
+   98.0,
+   40.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0269",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0269_honest_line.png",
+  "file_degraded": "images_degraded/pair0269_honest_line.jpg",
+  "values": [
+   35.0,
+   47.0,
+   88.0,
+   68.0,
+   87.0,
+   59.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0239",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0239_honest_line.png",
+  "file_degraded": "images_degraded/pair0239_honest_line.jpg",
+  "values": [
+   57.0,
+   84.0,
+   69.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0164",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0164_honest_line.png",
+  "file_degraded": "images_degraded/pair0164_honest_line.jpg",
+  "values": [
+   68.0,
+   85.0,
+   81.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0243",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0243_honest_line.png",
+  "file_degraded": "images_degraded/pair0243_honest_line.jpg",
+  "values": [
+   53.0,
+   85.0,
+   38.0,
+   78.0,
+   74.0,
+   34.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0296",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0296_honest_line.png",
+  "file_degraded": "images_degraded/pair0296_honest_line.jpg",
+  "values": [
+   27.0,
+   49.0,
+   58.0,
+   93.0,
+   67.0,
+   33.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0178",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0178_honest_line.png",
+  "file_degraded": "images_degraded/pair0178_honest_line.jpg",
+  "values": [
+   38.0,
+   65.0,
+   24.0,
+   24.0,
+   99.0,
+   22.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0240",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0240_honest_line.png",
+  "file_degraded": "images_degraded/pair0240_honest_line.jpg",
+  "values": [
+   25.0,
+   53.0,
+   56.0,
+   94.0,
+   78.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0228",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0228_honest_line.png",
+  "file_degraded": "images_degraded/pair0228_honest_line.jpg",
+  "values": [
+   92.0,
+   92.0,
+   78.0,
+   45.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 30.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0282",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0282_honest_line.png",
+  "file_degraded": "images_degraded/pair0282_honest_line.jpg",
+  "values": [
+   96.0,
+   74.0,
+   45.0,
+   61.0,
+   47.0,
+   62.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 30.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0258",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0258_honest_line.png",
+  "file_degraded": "images_degraded/pair0258_honest_line.jpg",
+  "values": [
+   60.0,
+   33.0,
+   67.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 20.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0210",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0210_honest_line.png",
+  "file_degraded": "images_degraded/pair0210_honest_line.jpg",
+  "values": [
+   95.0,
+   38.0,
+   78.0,
+   82.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0151",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0151_honest_line.png",
+  "file_degraded": "images_degraded/pair0151_honest_line.jpg",
+  "values": [
+   24.0,
+   40.0,
+   96.0,
+   50.0,
+   89.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0175",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0175_honest_line.png",
+  "file_degraded": "images_degraded/pair0175_honest_line.jpg",
+  "values": [
+   51.0,
+   85.0,
+   95.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line"
+  }
+ },
+ {
+  "pair_id": "pair0168",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0168_truncated.png",
+  "file_degraded": "images_degraded/pair0168_truncated.jpg",
+  "values": [
+   33.0,
+   40.0,
+   22.0,
+   55.0,
+   28.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 30.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0102",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0102_truncated.png",
+  "file_degraded": "images_degraded/pair0102_truncated.jpg",
+  "values": [
+   82.0,
+   76.0,
+   33.0,
+   45.0,
+   67.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0108",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0108_truncated.png",
+  "file_degraded": "images_degraded/pair0108_truncated.jpg",
+  "values": [
+   93.0,
+   27.0,
+   96.0,
+   68.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0138",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0138_truncated.png",
+  "file_degraded": "images_degraded/pair0138_truncated.jpg",
+  "values": [
+   65.0,
+   44.0,
+   96.0,
+   83.0,
+   69.0,
+   66.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0267",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0267_truncated.png",
+  "file_degraded": "images_degraded/pair0267_truncated.jpg",
+  "values": [
+   65.0,
+   87.0,
+   90.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0252",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0252_truncated.png",
+  "file_degraded": "images_degraded/pair0252_truncated.jpg",
+  "values": [
+   63.0,
+   64.0,
+   48.0,
+   69.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0217",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0217_truncated.png",
+  "file_degraded": "images_degraded/pair0217_truncated.jpg",
+  "values": [
+   94.0,
+   54.0,
+   93.0,
+   71.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0233",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0233_truncated.png",
+  "file_degraded": "images_degraded/pair0233_truncated.jpg",
+  "values": [
+   89.0,
+   89.0,
+   32.0,
+   47.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0225",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0225_truncated.png",
+  "file_degraded": "images_degraded/pair0225_truncated.jpg",
+  "values": [
+   86.0,
+   46.0,
+   51.0,
+   42.0,
+   79.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0192",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0192_truncated.png",
+  "file_degraded": "images_degraded/pair0192_truncated.jpg",
+  "values": [
+   68.0,
+   76.0,
+   95.0,
+   64.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0151",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0151_truncated.png",
+  "file_degraded": "images_degraded/pair0151_truncated.jpg",
+  "values": [
+   24.0,
+   40.0,
+   96.0,
+   50.0,
+   89.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0166",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0166_truncated.png",
+  "file_degraded": "images_degraded/pair0166_truncated.jpg",
+  "values": [
+   35.0,
+   81.0,
+   39.0,
+   35.0,
+   63.0,
+   22.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0277",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0277_truncated.png",
+  "file_degraded": "images_degraded/pair0277_truncated.jpg",
+  "values": [
+   69.0,
+   70.0,
+   57.0,
+   25.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0224",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0224_truncated.png",
+  "file_degraded": "images_degraded/pair0224_truncated.jpg",
+  "values": [
+   40.0,
+   79.0,
+   77.0,
+   29.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0219",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0219_truncated.png",
+  "file_degraded": "images_degraded/pair0219_truncated.jpg",
+  "values": [
+   59.0,
+   22.0,
+   97.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0230",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0230_truncated.png",
+  "file_degraded": "images_degraded/pair0230_truncated.jpg",
+  "values": [
+   56.0,
+   65.0,
+   35.0,
+   24.0,
+   72.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0227",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0227_truncated.png",
+  "file_degraded": "images_degraded/pair0227_truncated.jpg",
+  "values": [
+   95.0,
+   90.0,
+   98.0,
+   52.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0211",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0211_truncated.png",
+  "file_degraded": "images_degraded/pair0211_truncated.jpg",
+  "values": [
+   31.0,
+   36.0,
+   76.0,
+   70.0,
+   60.0,
+   95.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0242",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0242_truncated.png",
+  "file_degraded": "images_degraded/pair0242_truncated.jpg",
+  "values": [
+   99.0,
+   34.0,
+   75.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0269",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0269_truncated.png",
+  "file_degraded": "images_degraded/pair0269_truncated.jpg",
+  "values": [
+   35.0,
+   47.0,
+   88.0,
+   68.0,
+   87.0,
+   59.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0297",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0297_truncated.png",
+  "file_degraded": "images_degraded/pair0297_truncated.jpg",
+  "values": [
+   63.0,
+   63.0,
+   72.0,
+   66.0,
+   87.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0174",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0174_truncated.png",
+  "file_degraded": "images_degraded/pair0174_truncated.jpg",
+  "values": [
+   60.0,
+   96.0,
+   93.0,
+   28.0,
+   52.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0181",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0181_truncated.png",
+  "file_degraded": "images_degraded/pair0181_truncated.jpg",
+  "values": [
+   64.0,
+   21.0,
+   87.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0293",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0293_truncated.png",
+  "file_degraded": "images_degraded/pair0293_truncated.jpg",
+  "values": [
+   21.0,
+   63.0,
+   86.0,
+   95.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0125",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0125_truncated.png",
+  "file_degraded": "images_degraded/pair0125_truncated.jpg",
+  "values": [
+   77.0,
+   59.0,
+   36.0,
+   58.0,
+   26.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0212",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0212_truncated.png",
+  "file_degraded": "images_degraded/pair0212_truncated.jpg",
+  "values": [
+   61.0,
+   26.0,
+   56.0,
+   44.0,
+   95.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0231",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0231_truncated.png",
+  "file_degraded": "images_degraded/pair0231_truncated.jpg",
+  "values": [
+   59.0,
+   98.0,
+   68.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0288",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0288_truncated.png",
+  "file_degraded": "images_degraded/pair0288_truncated.jpg",
+  "values": [
+   89.0,
+   28.0,
+   43.0,
+   83.0,
+   25.0,
+   62.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0215",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0215_truncated.png",
+  "file_degraded": "images_degraded/pair0215_truncated.jpg",
+  "values": [
+   21.0,
+   86.0,
+   84.0,
+   86.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0146",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0146_truncated.png",
+  "file_degraded": "images_degraded/pair0146_truncated.jpg",
+  "values": [
+   71.0,
+   52.0,
+   70.0,
+   32.0,
+   61.0,
+   80.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0208",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0208_truncated.png",
+  "file_degraded": "images_degraded/pair0208_truncated.jpg",
+  "values": [
+   92.0,
+   53.0,
+   54.0,
+   62.0,
+   85.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0222",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0222_truncated.png",
+  "file_degraded": "images_degraded/pair0222_truncated.jpg",
+  "values": [
+   50.0,
+   65.0,
+   58.0,
+   85.0,
+   82.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0116",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0116_truncated.png",
+  "file_degraded": "images_degraded/pair0116_truncated.jpg",
+  "values": [
+   62.0,
+   78.0,
+   37.0,
+   64.0,
+   20.0,
+   80.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0266",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0266_truncated.png",
+  "file_degraded": "images_degraded/pair0266_truncated.jpg",
+  "values": [
+   22.0,
+   72.0,
+   43.0,
+   23.0,
+   72.0,
+   29.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 40.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0299",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0299_truncated.png",
+  "file_degraded": "images_degraded/pair0299_truncated.jpg",
+  "values": [
+   92.0,
+   94.0,
+   26.0,
+   43.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0283",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0283_truncated.png",
+  "file_degraded": "images_degraded/pair0283_truncated.jpg",
+  "values": [
+   88.0,
+   38.0,
+   74.0,
+   41.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0194",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0194_truncated.png",
+  "file_degraded": "images_degraded/pair0194_truncated.jpg",
+  "values": [
+   24.0,
+   44.0,
+   25.0,
+   66.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0124",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0124_truncated.png",
+  "file_degraded": "images_degraded/pair0124_truncated.jpg",
+  "values": [
+   45.0,
+   94.0,
+   68.0,
+   82.0,
+   65.0,
+   24.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0149",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0149_truncated.png",
+  "file_degraded": "images_degraded/pair0149_truncated.jpg",
+  "values": [
+   59.0,
+   77.0,
+   40.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0205",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0205_truncated.png",
+  "file_degraded": "images_degraded/pair0205_truncated.jpg",
+  "values": [
+   32.0,
+   51.0,
+   38.0,
+   87.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0137",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0137_truncated.png",
+  "file_degraded": "images_degraded/pair0137_truncated.jpg",
+  "values": [
+   44.0,
+   20.0,
+   60.0,
+   75.0,
+   80.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0271",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0271_truncated.png",
+  "file_degraded": "images_degraded/pair0271_truncated.jpg",
+  "values": [
+   96.0,
+   26.0,
+   27.0,
+   41.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0103",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0103_truncated.png",
+  "file_degraded": "images_degraded/pair0103_truncated.jpg",
+  "values": [
+   64.0,
+   67.0,
+   58.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0123",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0123_truncated.png",
+  "file_degraded": "images_degraded/pair0123_truncated.jpg",
+  "values": [
+   87.0,
+   42.0,
+   40.0,
+   83.0,
+   37.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0100",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0100_truncated.png",
+  "file_degraded": "images_degraded/pair0100_truncated.jpg",
+  "values": [
+   31.0,
+   66.0,
+   95.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 55.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0258",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0258_truncated.png",
+  "file_degraded": "images_degraded/pair0258_truncated.jpg",
+  "values": [
+   60.0,
+   33.0,
+   67.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0248",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0248_truncated.png",
+  "file_degraded": "images_degraded/pair0248_truncated.jpg",
+  "values": [
+   87.0,
+   82.0,
+   73.0,
+   30.0,
+   61.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0239",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0239_truncated.png",
+  "file_degraded": "images_degraded/pair0239_truncated.jpg",
+  "values": [
+   57.0,
+   84.0,
+   69.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0121",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0121_truncated.png",
+  "file_degraded": "images_degraded/pair0121_truncated.jpg",
+  "values": [
+   35.0,
+   23.0,
+   78.0,
+   34.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 45.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0150",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0150_truncated.png",
+  "file_degraded": "images_degraded/pair0150_truncated.jpg",
+  "values": [
+   66.0,
+   52.0,
+   69.0,
+   82.0,
+   70.0,
+   88.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 50.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0163",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0163_inverted.png",
+  "file_degraded": "images_degraded/pair0163_inverted.jpg",
+  "values": [
+   64.0,
+   58.0,
+   70.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0130",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0130_inverted.png",
+  "file_degraded": "images_degraded/pair0130_inverted.jpg",
+  "values": [
+   30.0,
+   68.0,
+   84.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0258",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0258_inverted.png",
+  "file_degraded": "images_degraded/pair0258_inverted.jpg",
+  "values": [
+   60.0,
+   33.0,
+   67.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0111",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0111_inverted.png",
+  "file_degraded": "images_degraded/pair0111_inverted.jpg",
+  "values": [
+   60.0,
+   90.0,
+   62.0,
+   29.0,
+   70.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0292",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0292_inverted.png",
+  "file_degraded": "images_degraded/pair0292_inverted.jpg",
+  "values": [
+   70.0,
+   45.0,
+   91.0,
+   27.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0239",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0239_inverted.png",
+  "file_degraded": "images_degraded/pair0239_inverted.jpg",
+  "values": [
+   57.0,
+   84.0,
+   69.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0168",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0168_inverted.png",
+  "file_degraded": "images_degraded/pair0168_inverted.jpg",
+  "values": [
+   33.0,
+   40.0,
+   22.0,
+   55.0,
+   28.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0271",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0271_inverted.png",
+  "file_degraded": "images_degraded/pair0271_inverted.jpg",
+  "values": [
+   96.0,
+   26.0,
+   27.0,
+   41.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0262",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0262_inverted.png",
+  "file_degraded": "images_degraded/pair0262_inverted.jpg",
+  "values": [
+   39.0,
+   37.0,
+   88.0,
+   34.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0191",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0191_inverted.png",
+  "file_degraded": "images_degraded/pair0191_inverted.jpg",
+  "values": [
+   72.0,
+   93.0,
+   48.0,
+   54.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0139",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0139_inverted.png",
+  "file_degraded": "images_degraded/pair0139_inverted.jpg",
+  "values": [
+   99.0,
+   81.0,
+   84.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0101",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0101_inverted.png",
+  "file_degraded": "images_degraded/pair0101_inverted.jpg",
+  "values": [
+   29.0,
+   90.0,
+   69.0,
+   83.0,
+   37.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0180",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0180_inverted.png",
+  "file_degraded": "images_degraded/pair0180_inverted.jpg",
+  "values": [
+   50.0,
+   24.0,
+   55.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0270",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0270_inverted.png",
+  "file_degraded": "images_degraded/pair0270_inverted.jpg",
+  "values": [
+   93.0,
+   51.0,
+   88.0,
+   83.0,
+   24.0,
+   22.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0249",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0249_inverted.png",
+  "file_degraded": "images_degraded/pair0249_inverted.jpg",
+  "values": [
+   96.0,
+   22.0,
+   29.0,
+   65.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0247",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0247_inverted.png",
+  "file_degraded": "images_degraded/pair0247_inverted.jpg",
+  "values": [
+   92.0,
+   44.0,
+   96.0,
+   59.0,
+   96.0,
+   50.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0225",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0225_inverted.png",
+  "file_degraded": "images_degraded/pair0225_inverted.jpg",
+  "values": [
+   86.0,
+   46.0,
+   51.0,
+   42.0,
+   79.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0276",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0276_inverted.png",
+  "file_degraded": "images_degraded/pair0276_inverted.jpg",
+  "values": [
+   45.0,
+   28.0,
+   86.0,
+   24.0,
+   24.0,
+   98.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0134",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0134_inverted.png",
+  "file_degraded": "images_degraded/pair0134_inverted.jpg",
+  "values": [
+   99.0,
+   46.0,
+   91.0,
+   45.0,
+   35.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0294",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0294_inverted.png",
+  "file_degraded": "images_degraded/pair0294_inverted.jpg",
+  "values": [
+   66.0,
+   74.0,
+   22.0,
+   54.0,
+   40.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0157",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0157_inverted.png",
+  "file_degraded": "images_degraded/pair0157_inverted.jpg",
+  "values": [
+   62.0,
+   33.0,
+   92.0,
+   36.0,
+   39.0,
+   35.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0221",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0221_inverted.png",
+  "file_degraded": "images_degraded/pair0221_inverted.jpg",
+  "values": [
+   91.0,
+   38.0,
+   61.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0250",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0250_inverted.png",
+  "file_degraded": "images_degraded/pair0250_inverted.jpg",
+  "values": [
+   48.0,
+   89.0,
+   91.0,
+   90.0,
+   70.0,
+   81.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0133",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0133_inverted.png",
+  "file_degraded": "images_degraded/pair0133_inverted.jpg",
+  "values": [
+   49.0,
+   20.0,
+   22.0,
+   43.0,
+   95.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0253",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0253_inverted.png",
+  "file_degraded": "images_degraded/pair0253_inverted.jpg",
+  "values": [
+   44.0,
+   47.0,
+   48.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0229",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0229_inverted.png",
+  "file_degraded": "images_degraded/pair0229_inverted.jpg",
+  "values": [
+   58.0,
+   79.0,
+   85.0,
+   63.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0174",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0174_inverted.png",
+  "file_degraded": "images_degraded/pair0174_inverted.jpg",
+  "values": [
+   60.0,
+   96.0,
+   93.0,
+   28.0,
+   52.0,
+   49.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0121",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0121_inverted.png",
+  "file_degraded": "images_degraded/pair0121_inverted.jpg",
+  "values": [
+   35.0,
+   23.0,
+   78.0,
+   34.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0206",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0206_inverted.png",
+  "file_degraded": "images_degraded/pair0206_inverted.jpg",
+  "values": [
+   21.0,
+   42.0,
+   97.0,
+   79.0,
+   45.0,
+   61.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0140",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0140_inverted.png",
+  "file_degraded": "images_degraded/pair0140_inverted.jpg",
+  "values": [
+   68.0,
+   55.0,
+   82.0,
+   88.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0281",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0281_inverted.png",
+  "file_degraded": "images_degraded/pair0281_inverted.jpg",
+  "values": [
+   77.0,
+   99.0,
+   95.0,
+   81.0,
+   54.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0277",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0277_inverted.png",
+  "file_degraded": "images_degraded/pair0277_inverted.jpg",
+  "values": [
+   69.0,
+   70.0,
+   57.0,
+   25.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0178",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0178_inverted.png",
+  "file_degraded": "images_degraded/pair0178_inverted.jpg",
+  "values": [
+   38.0,
+   65.0,
+   24.0,
+   24.0,
+   99.0,
+   22.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0274",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0274_inverted.png",
+  "file_degraded": "images_degraded/pair0274_inverted.jpg",
+  "values": [
+   24.0,
+   94.0,
+   79.0,
+   48.0,
+   63.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0205",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0205_inverted.png",
+  "file_degraded": "images_degraded/pair0205_inverted.jpg",
+  "values": [
+   32.0,
+   51.0,
+   38.0,
+   87.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0199",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0199_inverted.png",
+  "file_degraded": "images_degraded/pair0199_inverted.jpg",
+  "values": [
+   30.0,
+   50.0,
+   82.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0138",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0138_inverted.png",
+  "file_degraded": "images_degraded/pair0138_inverted.jpg",
+  "values": [
+   65.0,
+   44.0,
+   96.0,
+   83.0,
+   69.0,
+   66.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0233",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0233_inverted.png",
+  "file_degraded": "images_degraded/pair0233_inverted.jpg",
+  "values": [
+   89.0,
+   89.0,
+   32.0,
+   47.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0150",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0150_inverted.png",
+  "file_degraded": "images_degraded/pair0150_inverted.jpg",
+  "values": [
+   66.0,
+   52.0,
+   69.0,
+   82.0,
+   70.0,
+   88.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0196",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0196_inverted.png",
+  "file_degraded": "images_degraded/pair0196_inverted.jpg",
+  "values": [
+   75.0,
+   41.0,
+   51.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0103",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0103_inverted.png",
+  "file_degraded": "images_degraded/pair0103_inverted.jpg",
+  "values": [
+   64.0,
+   67.0,
+   58.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0127",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0127_inverted.png",
+  "file_degraded": "images_degraded/pair0127_inverted.jpg",
+  "values": [
+   23.0,
+   96.0,
+   43.0,
+   74.0,
+   81.0,
+   61.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0264",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0264_inverted.png",
+  "file_degraded": "images_degraded/pair0264_inverted.jpg",
+  "values": [
+   44.0,
+   74.0,
+   98.0,
+   24.0,
+   70.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0118",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0118_inverted.png",
+  "file_degraded": "images_degraded/pair0118_inverted.jpg",
+  "values": [
+   96.0,
+   85.0,
+   59.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0113",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0113_inverted.png",
+  "file_degraded": "images_degraded/pair0113_inverted.jpg",
+  "values": [
+   24.0,
+   45.0,
+   66.0,
+   24.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0188",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0188_inverted.png",
+  "file_degraded": "images_degraded/pair0188_inverted.jpg",
+  "values": [
+   77.0,
+   66.0,
+   41.0,
+   48.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0190",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0190_inverted.png",
+  "file_degraded": "images_degraded/pair0190_inverted.jpg",
+  "values": [
+   71.0,
+   56.0,
+   20.0,
+   38.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0106",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0106_inverted.png",
+  "file_degraded": "images_degraded/pair0106_inverted.jpg",
+  "values": [
+   38.0,
+   22.0,
+   33.0,
+   25.0,
+   88.0,
+   31.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0252",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0252_inverted.png",
+  "file_degraded": "images_degraded/pair0252_inverted.jpg",
+  "values": [
+   63.0,
+   64.0,
+   48.0,
+   69.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0230",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0230_inverted.png",
+  "file_degraded": "images_degraded/pair0230_inverted.jpg",
+  "values": [
+   56.0,
+   65.0,
+   35.0,
+   24.0,
+   72.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0221",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0221_dual.png",
+  "file_degraded": "images_degraded/pair0221_dual.jpg",
+  "values": [
+   91.0,
+   38.0,
+   61.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0183",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0183_dual.png",
+  "file_degraded": "images_degraded/pair0183_dual.jpg",
+  "values": [
+   96.0,
+   35.0,
+   59.0,
+   23.0,
+   27.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0274",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0274_dual.png",
+  "file_degraded": "images_degraded/pair0274_dual.jpg",
+  "values": [
+   24.0,
+   94.0,
+   79.0,
+   48.0,
+   63.0,
+   96.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0177",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0177_dual.png",
+  "file_degraded": "images_degraded/pair0177_dual.jpg",
+  "values": [
+   26.0,
+   42.0,
+   50.0,
+   26.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0215",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0215_dual.png",
+  "file_degraded": "images_degraded/pair0215_dual.jpg",
+  "values": [
+   21.0,
+   86.0,
+   84.0,
+   86.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0298",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0298_dual.png",
+  "file_degraded": "images_degraded/pair0298_dual.jpg",
+  "values": [
+   90.0,
+   39.0,
+   96.0,
+   72.0,
+   50.0,
+   52.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0131",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0131_dual.png",
+  "file_degraded": "images_degraded/pair0131_dual.jpg",
+  "values": [
+   77.0,
+   46.0,
+   33.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0227",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0227_dual.png",
+  "file_degraded": "images_degraded/pair0227_dual.jpg",
+  "values": [
+   95.0,
+   90.0,
+   98.0,
+   52.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0219",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0219_dual.png",
+  "file_degraded": "images_degraded/pair0219_dual.jpg",
+  "values": [
+   59.0,
+   22.0,
+   97.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0246",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0246_dual.png",
+  "file_degraded": "images_degraded/pair0246_dual.jpg",
+  "values": [
+   34.0,
+   92.0,
+   41.0,
+   76.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0258",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0258_dual.png",
+  "file_degraded": "images_degraded/pair0258_dual.jpg",
+  "values": [
+   60.0,
+   33.0,
+   67.0,
+   83.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0143",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0143_dual.png",
+  "file_degraded": "images_degraded/pair0143_dual.jpg",
+  "values": [
+   42.0,
+   34.0,
+   30.0,
+   70.0,
+   52.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0139",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0139_dual.png",
+  "file_degraded": "images_degraded/pair0139_dual.jpg",
+  "values": [
+   99.0,
+   81.0,
+   84.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0251",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0251_dual.png",
+  "file_degraded": "images_degraded/pair0251_dual.jpg",
+  "values": [
+   64.0,
+   87.0,
+   34.0,
+   39.0,
+   29.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0233",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0233_dual.png",
+  "file_degraded": "images_degraded/pair0233_dual.jpg",
+  "values": [
+   89.0,
+   89.0,
+   32.0,
+   47.0,
+   74.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0152",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0152_dual.png",
+  "file_degraded": "images_degraded/pair0152_dual.jpg",
+  "values": [
+   69.0,
+   33.0,
+   65.0,
+   30.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0211",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0211_dual.png",
+  "file_degraded": "images_degraded/pair0211_dual.jpg",
+  "values": [
+   31.0,
+   36.0,
+   76.0,
+   70.0,
+   60.0,
+   95.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0259",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0259_dual.png",
+  "file_degraded": "images_degraded/pair0259_dual.jpg",
+  "values": [
+   68.0,
+   95.0,
+   63.0,
+   77.0,
+   58.0,
+   68.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0186",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0186_dual.png",
+  "file_degraded": "images_degraded/pair0186_dual.jpg",
+  "values": [
+   69.0,
+   66.0,
+   64.0,
+   97.0,
+   29.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0217",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0217_dual.png",
+  "file_degraded": "images_degraded/pair0217_dual.jpg",
+  "values": [
+   94.0,
+   54.0,
+   93.0,
+   71.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0253",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0253_dual.png",
+  "file_degraded": "images_degraded/pair0253_dual.jpg",
+  "values": [
+   44.0,
+   47.0,
+   48.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0159",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0159_dual.png",
+  "file_degraded": "images_degraded/pair0159_dual.jpg",
+  "values": [
+   40.0,
+   20.0,
+   50.0,
+   58.0,
+   22.0,
+   77.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0273",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0273_dual.png",
+  "file_degraded": "images_degraded/pair0273_dual.jpg",
+  "values": [
+   78.0,
+   21.0,
+   67.0,
+   69.0,
+   94.0,
+   82.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0117",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0117_dual.png",
+  "file_degraded": "images_degraded/pair0117_dual.jpg",
+  "values": [
+   40.0,
+   90.0,
+   43.0,
+   44.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0240",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0240_dual.png",
+  "file_degraded": "images_degraded/pair0240_dual.jpg",
+  "values": [
+   25.0,
+   53.0,
+   56.0,
+   94.0,
+   78.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0202",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0202_dual.png",
+  "file_degraded": "images_degraded/pair0202_dual.jpg",
+  "values": [
+   53.0,
+   52.0,
+   68.0,
+   89.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0108",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0108_dual.png",
+  "file_degraded": "images_degraded/pair0108_dual.jpg",
+  "values": [
+   93.0,
+   27.0,
+   96.0,
+   68.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0150",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0150_dual.png",
+  "file_degraded": "images_degraded/pair0150_dual.jpg",
+  "values": [
+   66.0,
+   52.0,
+   69.0,
+   82.0,
+   70.0,
+   88.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0265",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0265_dual.png",
+  "file_degraded": "images_degraded/pair0265_dual.jpg",
+  "values": [
+   59.0,
+   65.0,
+   46.0,
+   69.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0144",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0144_dual.png",
+  "file_degraded": "images_degraded/pair0144_dual.jpg",
+  "values": [
+   23.0,
+   35.0,
+   94.0,
+   76.0,
+   25.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0111",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0111_dual.png",
+  "file_degraded": "images_degraded/pair0111_dual.jpg",
+  "values": [
+   60.0,
+   90.0,
+   62.0,
+   29.0,
+   70.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0271",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0271_dual.png",
+  "file_degraded": "images_degraded/pair0271_dual.jpg",
+  "values": [
+   96.0,
+   26.0,
+   27.0,
+   41.0,
+   30.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0239",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0239_dual.png",
+  "file_degraded": "images_degraded/pair0239_dual.jpg",
+  "values": [
+   57.0,
+   84.0,
+   69.0,
+   55.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0112",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0112_dual.png",
+  "file_degraded": "images_degraded/pair0112_dual.jpg",
+  "values": [
+   58.0,
+   84.0,
+   41.0,
+   58.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0295",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0295_dual.png",
+  "file_degraded": "images_degraded/pair0295_dual.jpg",
+  "values": [
+   57.0,
+   90.0,
+   83.0,
+   94.0,
+   27.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0264",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0264_dual.png",
+  "file_degraded": "images_degraded/pair0264_dual.jpg",
+  "values": [
+   44.0,
+   74.0,
+   98.0,
+   24.0,
+   70.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0148",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0148_dual.png",
+  "file_degraded": "images_degraded/pair0148_dual.jpg",
+  "values": [
+   53.0,
+   94.0,
+   47.0,
+   33.0,
+   37.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0223",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0223_dual.png",
+  "file_degraded": "images_degraded/pair0223_dual.jpg",
+  "values": [
+   68.0,
+   31.0,
+   89.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0105",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0105_dual.png",
+  "file_degraded": "images_degraded/pair0105_dual.jpg",
+  "values": [
+   50.0,
+   98.0,
+   60.0,
+   32.0,
+   68.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0133",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0133_dual.png",
+  "file_degraded": "images_degraded/pair0133_dual.jpg",
+  "values": [
+   49.0,
+   20.0,
+   22.0,
+   43.0,
+   95.0,
+   79.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0235",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0235_dual.png",
+  "file_degraded": "images_degraded/pair0235_dual.jpg",
+  "values": [
+   29.0,
+   94.0,
+   29.0,
+   32.0,
+   89.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0155",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0155_dual.png",
+  "file_degraded": "images_degraded/pair0155_dual.jpg",
+  "values": [
+   51.0,
+   71.0,
+   29.0,
+   80.0,
+   53.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0232",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0232_dual.png",
+  "file_degraded": "images_degraded/pair0232_dual.jpg",
+  "values": [
+   34.0,
+   87.0,
+   46.0,
+   35.0,
+   26.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0135",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0135_dual.png",
+  "file_degraded": "images_degraded/pair0135_dual.jpg",
+  "values": [
+   79.0,
+   91.0,
+   42.0,
+   31.0,
+   73.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0141",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0141_dual.png",
+  "file_degraded": "images_degraded/pair0141_dual.jpg",
+  "values": [
+   28.0,
+   45.0,
+   70.0,
+   86.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0147",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0147_dual.png",
+  "file_degraded": "images_degraded/pair0147_dual.jpg",
+  "values": [
+   51.0,
+   30.0,
+   21.0,
+   64.0,
+   27.0,
+   80.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0199",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0199_dual.png",
+  "file_degraded": "images_degraded/pair0199_dual.jpg",
+  "values": [
+   30.0,
+   50.0,
+   82.0,
+   47.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0169",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0169_dual.png",
+  "file_degraded": "images_degraded/pair0169_dual.jpg",
+  "values": [
+   89.0,
+   76.0,
+   85.0,
+   88.0,
+   45.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0208",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0208_dual.png",
+  "file_degraded": "images_degraded/pair0208_dual.jpg",
+  "values": [
+   92.0,
+   53.0,
+   54.0,
+   62.0,
+   85.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ },
+ {
+  "pair_id": "pair0236",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0236_dual.png",
+  "file_degraded": "images_degraded/pair0236_dual.jpg",
+  "values": [
+   57.0,
+   92.0,
+   91.0,
+   69.0,
+   22.0,
+   69.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar"
+  }
+ }
+]
