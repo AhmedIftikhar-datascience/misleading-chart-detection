@@ -1,0 +1,2174 @@
+[
+ {
+  "pair_id": "pair0015",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0015_honest_bar.png",
+  "file_degraded": "images_degraded/pair0015_honest_bar.jpg",
+  "values": [
+   361.0,
+   66.0,
+   265.0,
+   202.0,
+   95.0,
+   174.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 6,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0040",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0040_honest_bar.png",
+  "file_degraded": "images_degraded/pair0040_honest_bar.jpg",
+  "values": [
+   255.0,
+   284.0,
+   337.0,
+   123.0,
+   101.0,
+   260.0,
+   143.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF",
+   "CatG"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 8,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0064",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0064_honest_bar.png",
+  "file_degraded": "images_degraded/pair0064_honest_bar.jpg",
+  "values": [
+   136.0,
+   309.0,
+   289.0,
+   96.0,
+   346.0,
+   90.0,
+   316.0,
+   213.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF",
+   "CatG",
+   "CatH",
+   "CatI"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 6,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0065",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0065_honest_bar.png",
+  "file_degraded": "images_degraded/pair0065_honest_bar.jpg",
+  "values": [
+   243.0,
+   136.0,
+   138.0,
+   46.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0082",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0082_honest_bar.png",
+  "file_degraded": "images_degraded/pair0082_honest_bar.jpg",
+  "values": [
+   307.0,
+   280.0,
+   221.0,
+   324.0,
+   347.0,
+   285.0,
+   135.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF",
+   "CatG"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 11,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0110",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0110_honest_bar.png",
+  "file_degraded": "images_degraded/pair0110_honest_bar.jpg",
+  "values": [
+   350.0,
+   174.0,
+   204.0,
+   396.0,
+   361.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0013",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0013_honest_bar.png",
+  "file_degraded": "images_degraded/pair0013_honest_bar.jpg",
+  "values": [
+   121.0,
+   139.0,
+   317.0,
+   247.0,
+   98.0,
+   104.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF",
+   "CatG"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 11,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#F58518",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0113",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0113_honest_bar.png",
+  "file_degraded": "images_degraded/pair0113_honest_bar.jpg",
+  "values": [
+   89.0,
+   349.0,
+   153.0,
+   245.0,
+   287.0,
+   356.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 9,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0028",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0028_honest_bar.png",
+  "file_degraded": "images_degraded/pair0028_honest_bar.jpg",
+  "values": [
+   362.0,
+   161.0,
+   106.0,
+   235.0,
+   185.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0114",
+  "split": "test",
+  "kind": "honest_bar",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "bar",
+  "file": "images/pair0114_honest_bar.png",
+  "file_degraded": "images_degraded/pair0114_honest_bar.jpg",
+  "values": [
+   222.0,
+   76.0,
+   377.0,
+   118.0,
+   353.0,
+   337.0,
+   62.0,
+   147.0,
+   146.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF",
+   "CatG",
+   "CatH",
+   "CatI"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 8,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#FF9DA6",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0076",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0076_honest_line.png",
+  "file_degraded": "images_degraded/pair0076_honest_line.jpg",
+  "values": [
+   33.0,
+   24.0,
+   53.0,
+   42.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 6,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#F58518",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0079",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0079_honest_line.png",
+  "file_degraded": "images_degraded/pair0079_honest_line.jpg",
+  "values": [
+   31.0,
+   71.0,
+   62.0,
+   27.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 8,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0071",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0071_honest_line.png",
+  "file_degraded": "images_degraded/pair0071_honest_line.jpg",
+  "values": [
+   80.0,
+   73.0,
+   91.0,
+   72.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 11,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#F58518",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0053",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0053_honest_line.png",
+  "file_degraded": "images_degraded/pair0053_honest_line.jpg",
+  "values": [
+   74.0,
+   96.0,
+   67.0,
+   92.0,
+   71.0,
+   36.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 7,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#F58518",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0100",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0100_honest_line.png",
+  "file_degraded": "images_degraded/pair0100_honest_line.jpg",
+  "values": [
+   56.0,
+   38.0,
+   82.0,
+   74.0,
+   92.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 25.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 10,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0073",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0073_honest_line.png",
+  "file_degraded": "images_degraded/pair0073_honest_line.jpg",
+  "values": [
+   56.0,
+   75.0,
+   77.0,
+   51.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 35.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#F58518",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0070",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0070_honest_line.png",
+  "file_degraded": "images_degraded/pair0070_honest_line.jpg",
+  "values": [
+   90.0,
+   28.0,
+   87.0,
+   78.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 7,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0107",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0107_honest_line.png",
+  "file_degraded": "images_degraded/pair0107_honest_line.jpg",
+  "values": [
+   32.0,
+   72.0,
+   31.0,
+   50.0,
+   98.0,
+   26.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 11,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0093",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0093_honest_line.png",
+  "file_degraded": "images_degraded/pair0093_honest_line.jpg",
+  "values": [
+   67.0,
+   54.0,
+   24.0,
+   39.0,
+   37.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 9,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0099",
+  "split": "test",
+  "kind": "honest_line",
+  "label": 0,
+  "misleader": null,
+  "chart_type": "line",
+  "file": "images/pair0099_honest_line.png",
+  "file_degraded": "images_degraded/pair0099_honest_line.jpg",
+  "values": [
+   58.0,
+   39.0,
+   21.0,
+   62.0,
+   41.0,
+   56.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 10.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "line",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#F58518",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0098",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0098_truncated.png",
+  "file_degraded": "images_degraded/pair0098_truncated.jpg",
+  "values": [
+   63.0,
+   44.0,
+   20.0,
+   30.0,
+   48.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 15.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 8,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0062",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0062_truncated.png",
+  "file_degraded": "images_degraded/pair0062_truncated.jpg",
+  "values": [
+   75.0,
+   30.0,
+   86.0,
+   33.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 22.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 12,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0096",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0096_truncated.png",
+  "file_degraded": "images_degraded/pair0096_truncated.jpg",
+  "values": [
+   23.0,
+   86.0,
+   70.0,
+   83.0,
+   45.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 18.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 12,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0075",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0075_truncated.png",
+  "file_degraded": "images_degraded/pair0075_truncated.jpg",
+  "values": [
+   26.0,
+   49.0,
+   76.0,
+   97.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 22.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 8,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0056",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0056_truncated.png",
+  "file_degraded": "images_degraded/pair0056_truncated.jpg",
+  "values": [
+   82.0,
+   59.0,
+   88.0,
+   21.0,
+   57.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 18.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 6,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0030",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0030_truncated.png",
+  "file_degraded": "images_degraded/pair0030_truncated.jpg",
+  "values": [
+   83.0,
+   88.0,
+   63.0,
+   46.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 39.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0000",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0000_truncated.png",
+  "file_degraded": "images_degraded/pair0000_truncated.jpg",
+  "values": [
+   22.0,
+   23.0,
+   52.0,
+   94.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 17.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 9,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0078",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0078_truncated.png",
+  "file_degraded": "images_degraded/pair0078_truncated.jpg",
+  "values": [
+   89.0,
+   80.0,
+   64.0,
+   66.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 48.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 12,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0010",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0010_truncated.png",
+  "file_degraded": "images_degraded/pair0010_truncated.jpg",
+  "values": [
+   55.0,
+   59.0,
+   26.0,
+   35.0,
+   41.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 22.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 8,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#B279A2",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0014",
+  "split": "test",
+  "kind": "truncated",
+  "label": 1,
+  "misleader": "truncated",
+  "chart_type": "bar",
+  "file": "images/pair0014_truncated.png",
+  "file_degraded": "images_degraded/pair0014_truncated.jpg",
+  "values": [
+   80.0,
+   49.0,
+   78.0,
+   48.0,
+   54.0,
+   66.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 43.0,
+   "inverted": false,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 11,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#B279A2",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0036",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0036_inverted.png",
+  "file_degraded": "images_degraded/pair0036_inverted.jpg",
+  "values": [
+   39.0,
+   53.0,
+   56.0,
+   32.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0104",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0104_inverted.png",
+  "file_degraded": "images_degraded/pair0104_inverted.jpg",
+  "values": [
+   46.0,
+   92.0,
+   52.0,
+   71.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 8,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#B279A2",
+    "line_colour": "#FF9DA6",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0012",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0012_inverted.png",
+  "file_degraded": "images_degraded/pair0012_inverted.jpg",
+  "values": [
+   76.0,
+   89.0,
+   39.0,
+   24.0,
+   62.0,
+   23.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#79706E",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0057",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0057_inverted.png",
+  "file_degraded": "images_degraded/pair0057_inverted.jpg",
+  "values": [
+   94.0,
+   48.0,
+   77.0,
+   64.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#B279A2",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0001",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0001_inverted.png",
+  "file_degraded": "images_degraded/pair0001_inverted.jpg",
+  "values": [
+   84.0,
+   71.0,
+   55.0,
+   88.0,
+   48.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 7,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#F58518",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0114",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0114_inverted.png",
+  "file_degraded": "images_degraded/pair0114_inverted.jpg",
+  "values": [
+   77.0,
+   77.0,
+   83.0,
+   55.0,
+   63.0,
+   85.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 12,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#B279A2",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0087",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0087_inverted.png",
+  "file_degraded": "images_degraded/pair0087_inverted.jpg",
+  "values": [
+   94.0,
+   26.0,
+   36.0,
+   99.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#9D755D",
+    "line_colour": "#E45756",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0062",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0062_inverted.png",
+  "file_degraded": "images_degraded/pair0062_inverted.jpg",
+  "values": [
+   63.0,
+   69.0,
+   50.0,
+   91.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 12,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0086",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0086_inverted.png",
+  "file_degraded": "images_degraded/pair0086_inverted.jpg",
+  "values": [
+   37.0,
+   83.0,
+   59.0,
+   98.0,
+   57.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 9,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#4C78A8",
+    "line_colour": "#FF9DA6",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0040",
+  "split": "test",
+  "kind": "inverted",
+  "label": 1,
+  "misleader": "inverted",
+  "chart_type": "bar",
+  "file": "images/pair0040_inverted.png",
+  "file_degraded": "images_degraded/pair0040_inverted.jpg",
+  "values": [
+   86.0,
+   23.0,
+   92.0,
+   43.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": true,
+   "dual": false,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 11,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0026",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0026_dual.png",
+  "file_degraded": "images_degraded/pair0026_dual.jpg",
+  "values": [
+   68.0,
+   73.0,
+   42.0,
+   68.0,
+   58.0,
+   39.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 9,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0050",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0050_dual.png",
+  "file_degraded": "images_degraded/pair0050_dual.jpg",
+  "values": [
+   50.0,
+   90.0,
+   29.0,
+   69.0,
+   31.0,
+   24.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 8,
+    "grid": true,
+    "rotate": 30,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0032",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0032_dual.png",
+  "file_degraded": "images_degraded/pair0032_dual.jpg",
+  "values": [
+   48.0,
+   86.0,
+   63.0,
+   87.0,
+   85.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 8,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#FF9DA6",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0044",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0044_dual.png",
+  "file_degraded": "images_degraded/pair0044_dual.jpg",
+  "values": [
+   24.0,
+   21.0,
+   50.0,
+   27.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Serif",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 6,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#F58518",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0118",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0118_dual.png",
+  "file_degraded": "images_degraded/pair0118_dual.jpg",
+  "values": [
+   40.0,
+   72.0,
+   72.0,
+   76.0,
+   99.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#79706E",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0045",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0045_dual.png",
+  "file_degraded": "images_degraded/pair0045_dual.jpg",
+  "values": [
+   82.0,
+   93.0,
+   91.0,
+   30.0,
+   66.0,
+   43.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 11,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0103",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0103_dual.png",
+  "file_degraded": "images_degraded/pair0103_dual.jpg",
+  "values": [
+   92.0,
+   55.0,
+   59.0,
+   25.0,
+   70.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     4,
+     3
+    ],
+    "tick_size": 9,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#B279A2",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0048",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0048_dual.png",
+  "file_degraded": "images_degraded/pair0048_dual.jpg",
+  "values": [
+   25.0,
+   28.0,
+   23.0,
+   93.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans Mono",
+    "figsize": [
+     7,
+     4.5
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 30,
+    "bar_colour": "#72B7B2",
+    "line_colour": "#FF9DA6",
+    "title": true
+   }
+  }
+ },
+ {
+  "pair_id": "pair0095",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0095_dual.png",
+  "file_degraded": "images_degraded/pair0095_dual.jpg",
+  "values": [
+   81.0,
+   21.0,
+   27.0,
+   24.0,
+   63.0,
+   89.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     8,
+     5
+    ],
+    "tick_size": 10,
+    "grid": true,
+    "rotate": 0,
+    "bar_colour": "#EECA3B",
+    "line_colour": "#E45756",
+    "title": false
+   }
+  }
+ },
+ {
+  "pair_id": "pair0065",
+  "split": "test",
+  "kind": "dual",
+  "label": 1,
+  "misleader": "dual",
+  "chart_type": "bar",
+  "file": "images/pair0065_dual.png",
+  "file_degraded": "images_degraded/pair0065_dual.jpg",
+  "values": [
+   58.0,
+   79.0,
+   75.0,
+   94.0,
+   44.0,
+   40.0
+  ],
+  "categories": [
+   "CatA",
+   "CatB",
+   "CatC",
+   "CatD",
+   "CatE",
+   "CatF"
+  ],
+  "axis": {
+   "ymin": 0.0,
+   "inverted": false,
+   "dual": true,
+   "chart_type": "bar",
+   "variant": {
+    "font": "DejaVu Sans",
+    "figsize": [
+     6,
+     4
+    ],
+    "tick_size": 7,
+    "grid": false,
+    "rotate": 0,
+    "bar_colour": "#54A24B",
+    "line_colour": "#FF9DA6",
+    "title": false
+   }
+  }
+ }
+]
